@@ -1,6 +1,6 @@
 # Imagem Matricial
 
-Primeira aula da disciplina de Sistemas Multimídias. Programação de imagens matriciais com opencv2.
+Segunda aula da disciplina de Sistemas Multimídias. Programação de imagens matriciais com opencv2.
 
 ## :camera: Imagems resultantes:
 
